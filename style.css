@@ -59,6 +59,7 @@ p {
   font-weight: bold;
   color: purple;
   text-align: left;
+  text-transform: uppercase;
 }
 .special {
   color: darkblue;

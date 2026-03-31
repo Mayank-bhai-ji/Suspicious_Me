@@ -1,0 +1,109 @@
+* {
+  background-color: lightgrey;
+}
+.title {
+  background: url('https://wallpapercave.com/wp/naUV8DU.jpg');
+  color: darkblue;
+  text-align: center;
+  font-size: 50px;
+  font-family: cursive;
+  font-weight: bold;
+  text-transform: uppercase;
+  border: 3px solid blue;
+}
+a[href*="index"] {
+  font-family: georgia;
+  font-size: 20px;
+  color: lightblue;
+  border: 1px solid darkblue;
+  background-color: teal;
+  font-weight: bold;
+}
+a[href*="aboutme"] {
+  font-family: georgia;
+  font-size: 20px;
+  color: lightblue;
+  border: 1px solid darkblue;
+  background-color: teal;
+   font-weight: bold;
+}
+a[href*="contact"] {
+  font-family: georgia;
+  font-size: 20px;
+  color: lightblue;
+  border: 1px solid darkblue;
+  background-color: teal;
+   font-weight: bold;
+}
+.intro {
+  color: darkblue;
+  text-align: left;
+  font-size: 40px;
+  font-family: cursive;
+  font-weight: bold;
+  border: 2px solid blue;
+  background-color: lightblue;
+  text-align: center;
+}
+.hover:hover {
+  background-color: teal;
+  color: blue;
+  font-size: 24px;
+}
+a:hover {
+	background-color: lightblue;
+	font-size: 20px;
+}
+p {
+  font-size: 20px;
+  font-weight: bold;
+  color: purple;
+  text-align: left;
+}
+.special {
+  color: darkblue;
+  text-align: left;
+  font-size: 40px;
+  font-family: cursive;
+  font-weight: bold;
+  border: 2px solid blue;
+  background-color: lightblue;
+  text-align: center;
+}
+.media {
+  color: darkblue;
+  text-align: left;
+  font-size: 40px;
+  font-family: cursive;
+  font-weight: bold;
+  border: 2px solid blue;
+  background-color: lightblue;
+  text-align: center;
+}
+a[href*="@suspicious_me"] {
+  font-size: 20px;
+  border: 1px solid blue;
+  font-weight: bold;
+  font-family: cursive;
+  text-align: center;
+  color: darkblue;
+}
+.content {
+  font-size: 30px;
+  font-family: georgia;
+  font-weight: bold;
+  color: darkblue;
+  background-color: lightblue;
+  border: 1px solid darkblue;
+}
+.channel {
+  text-align: center;
+}
+h5 {
+  font-size: 18px;
+  font-family: cursive;
+  font-weight: bold;
+  text-align: left;
+  color: black;
+  border: 1px black;
+}
